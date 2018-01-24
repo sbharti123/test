@@ -1,5 +1,2 @@
 Hello my name is sumit.
 I am working on teaching git to kids.
-a
-b
-c
